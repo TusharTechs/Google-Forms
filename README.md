@@ -51,6 +51,22 @@ To run the project locally, follow these steps:
 
 ## Screenshots
 
+### Questionnaire Page 1
+
+![Screenshot_43](https://github.com/TusharTechs/Google-Forms/assets/56952465/3b84b1d0-401b-48cc-a8da-e21194497db8)
+
+### Questionnaire Page 2
+
+![Screenshot_44](https://github.com/TusharTechs/Google-Forms/assets/56952465/6571d7d1-8b77-423b-9d80-6da7c7c1566c)
+
+### Reset/Clear Reponse
+
+![Screenshot_46](https://github.com/TusharTechs/Google-Forms/assets/56952465/624d6065-ba71-4818-8abc-b49dbefdf395)
+
+### Response Page
+![Screenshot_45](https://github.com/TusharTechs/Google-Forms/assets/56952465/e130468d-67bb-4474-a8ad-52ce48ad19dc)
+
+
 
 ## Contributing
 
