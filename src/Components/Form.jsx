@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useNavigate } from "react";
 import "./Form.css";
 
 import MCQ from "./MCQ";
@@ -14,6 +14,7 @@ import TickBoxGrid from "./TickBoxGrid";
 const Form = () => {
   const [formData, setFormData] = useState({});
   const [isFormComplete, setIsFormComplete] = useState(true);
+  const navigate = useNavigate();
 
   const handleInputChange = (name, value) => {
     setFormData({
@@ -47,7 +48,7 @@ const Form = () => {
     }
 
     if (setIsFormComplete) {
-      window.location("/response");
+      navigate("/response");
     }
   };
 
